@@ -1,0 +1,7 @@
+RecordID,AccountName,ContactName,Email,MeetingDate,OpportunityAmount,MeetingNotes
+R001,Northstar Hotels,Anika Rao,anika@example.com,2026-10-05,18000,Interested in multi-property rollout; wants pricing
+R002,Blue Harbor Group,Omar Khan,omar@example.com,2026-10-06,32000,Finance review needed; follow up next week
+R003,Cedar Suites,Leah Stone,leah.example.com,2026-10-07,12000,Asked for implementation timeline
+R004,Lumen Stays,Dev Nair,,2026-10-08,8000,Requested product overview
+R004,Maple Lodging,Sam Lee,sam@example.com,2026-10-09,-4000,Needs a quote; amount looks unusual
+R006,Urban Nest,Jo Park,jo@example.com,not-a-date,14000,Interested; confirm number of sites

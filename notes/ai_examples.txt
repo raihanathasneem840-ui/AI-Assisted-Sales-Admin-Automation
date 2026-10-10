@@ -1,0 +1,86 @@
+ACTIVITY 1: CUSTOMER MEETING NOTE SUMMARY
+
+Prompt:
+[I am practising a sales administration task as a Junior Revenue Operations Analyst.
+
+Please summarize the following fictional customer meeting note into four sections:
+
+1. Customer goal
+2. Information requested
+3. Recommended next action
+4. Follow-up timing
+
+Meeting note: "Interested in multi-property rollout; wants pricing."
+
+Important rules:
+
+- Use only the information provided in the note.
+- Do not invent customer names, property counts, prices, deadlines, or commitments.
+- If a detail is missing, clearly state "Not specified".
+- Keep the summary professional and concise.]
+
+AI Output:
+[1. Customer goal
+
+Interested in a multi-property rollout.
+
+2. Information requested
+
+Pricing for the rollout. Specific pricing details are Not specified.
+
+3. Recommended next action
+
+Provide relevant pricing information for the multi-property rollout. Specific next steps are Not specified.
+
+4. Follow-up timing
+
+Not specified.]
+
+Human Review:
+The output was checked against the original meeting note.
+Verified that the customer is interested in a multi-property rollout
+and requested pricing. Missing details were not assumed.
+
+Result:
+The AI helped structure a brief sales note for easier review.
+__________________________________________________________________
+
+
+ACTVITY 2: CUSTOMER FOLLOW-UP EMAIL
+
+Prompt:
+[I am practising sales administration as a Junior Revenue Operations Analyst.
+
+Draft a professional follow-up email based only on this fictional customer meeting note:
+
+"Interested in multi-property rollout; wants pricing."
+
+Requirements:
+
+- Thank the customer for their interest.
+- Acknowledge their interest in a multi-property rollout.
+- Explain that further details about the rollout scope may be needed before pricing can be prepared.
+- Do not invent the customer's name, company name, prices, discounts, deadlines, or promises.
+- Use a placeholder for the recipient's name.
+- Keep the email concise and professional.]
+
+AI Output:
+[Dear [Recipient Name],
+
+Thank you for your interest in a multi-property rollout.
+
+We would be happy to explore your requirements further. To help prepare the appropriate pricing, we may need some additional details about the rollout scope.
+
+Please share any relevant information about your requirements so we can better understand your needs.
+
+Best regards,  
+Sales Administration Team]
+
+Human Review:
+Checked that the email reflects the customer's stated interest.
+Verified that no prices, discounts, deadlines, or unapproved
+commitments were invented.
+
+Result:
+AI assisted with drafting a customer follow-up email.
+The draft would require review before being sent.

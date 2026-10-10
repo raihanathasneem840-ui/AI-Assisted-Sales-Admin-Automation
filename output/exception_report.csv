@@ -1,0 +1,7 @@
+RecordID,CSVRow,IssueType,Severity,SuggestedNextStep
+R003,4,Email format needs review,Medium,Verify email with the source
+R004,5,Missing email,Medium,Request the contact email
+R004,6,Negative amount,High,Confirm intended amount; do not guess
+R006,7,Invalid meeting date,Medium,Confirm date with the record owner
+R004,5,Duplicate RecordID,High,Check whether duplicate or ID-entry error
+R004,6,Duplicate RecordID,High,Check whether duplicate or ID-entry error

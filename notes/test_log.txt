@@ -1,0 +1,26 @@
+TEST LOG
+
+Test 1: Missing email
+Expected result: The script flags the blank email.
+Actual result: record R004 was flagged for a missing email.
+Status: Pass
+
+Test 2: Invalid email format
+Expected result: The script flags an email without a valid-looking format.
+Actual result: record r003 was flagged for email format review.
+Status: Pass
+
+Test 3: Negative amount
+Expected result: The script flags a negative opportunity amount.
+Actual result: record r004 was flagged for a negative amount.
+Status: Pass
+
+Test 4: Invalid meeting date
+Expected result: The script flags the invalid date.
+Actual result: record r006 was flagged for a negative amount.
+Status: Pass
+
+Test 5: Duplicate record ID
+Expected result: Both rows with the duplicated ID are flagged.
+Actual result: both rows containiing RecordID r004 were flagged as duplicate.
+Status: Pass
